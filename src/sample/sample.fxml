@@ -14,6 +14,6 @@
       <RowConstraints />
    </rowConstraints>
    <children>
-      <Button fx:id="btnPress" mnemonicParsing="false" onAction="#myMethod" onMouseExited="#myMethod" prefHeight="40.0" prefWidth="76.0" text="Button" GridPane.rowIndex="1" />
+      <Button fx:id="btnPress" mnemonicParsing="false" onAction="#pushButton" prefHeight="40.0" prefWidth="76.0" text="Button" GridPane.rowIndex="1" />
    </children>
 </GridPane>
